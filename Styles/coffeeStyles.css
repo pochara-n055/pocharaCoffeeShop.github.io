@@ -1,0 +1,131 @@
+body{
+    background:#FFFFCC;
+}
+
+#Main{
+    background:#FFFFFF;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:auto;
+    margin-bottom:auto;
+    border:5px;
+    border-style:solid;
+    border-color:black;
+}
+#Navigation{
+    background:#FFFFFF;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:auto;
+    margin-bottom:auto;
+    border:5px;
+    border-style:solid;
+    border-color:black;
+    padding-bottom:5px;
+}
+#NavigationP{
+    font-size:20px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color:#e68a00;
+}
+p{
+    padding-left:10px;
+    padding-right:10px;
+    font-size:22px;
+}
+#ContactP{
+    font-size:18px;
+    color:white;
+}
+#NavigationA{
+    color:black;
+    text-decoration:none;
+}
+#NavigationA:hover{
+    color:green;
+    font-size:25px;
+}
+h2 {
+    font-size:30px;
+    color:red;
+    text-align:center;
+}
+#HomeMenu{
+    color:currentColor;
+    text-decoration:none;
+}
+#HomeMenu:hover{
+    font-size:35px;
+    color:green;
+    text-decoration:underline;
+}
+#MainDough{
+    border:5px;
+    border-style:solid;
+    border-color:black;
+}
+#Footer{
+    background-color:#663300;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:auto;
+    margin-bottom:30px;
+}
+#Contact {
+    background-color:#663300;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+#FooterTextA{
+    text-align:center;
+    color:white;
+    text-decoration:none;
+}
+#FooterTextA:hover{
+    font-size:20px;
+    text-decoration:underline;
+}
+#White{
+    color:white;
+}
+
+#MenuImages {
+    border:1px;
+    border-color:black;
+    border-style:solid;
+    margin:5px;
+}
+table {
+	height: auto;
+	width: auto;
+	/*border: 1px solid #000; Temporarily Disabled*/
+    padding-bottom:10px;
+}
+/*td{
+    
+    border: 1px solid #000;
+    
+    
+} Temporarily Disabled */
+#MenuFood{
+    font-size:30px;
+    text-align: right;
+}
+#MenuDesc{
+    text-align: right;
+}
+
+#MenuCategories{
+    font-size: 40px;
+    text-align: center;
+    color:#ff0000;
+}
+#AboutHyper{
+    color:black;
+    text-decoration:none;
+}
